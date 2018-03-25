@@ -85,15 +85,15 @@ export default class Signup extends Component {
                                 keyboardType="email-address"
                                 onChangeText={(email) => this.setState({email})}
                             />
-                            <MobileInput
-                                title="Mobile"
-                                autoCapitalize="none"
-                                keyboardType="numeric"
-                                value={this.state.mobile_number}
-                                underlineColorAndroid="white"
-                                onChangeText={(mobile_number) => this.setState({mobile_number})}
-                                changeCountryCode={this.changeCountryCode}
-                            />
+                            {/*<MobileInput*/}
+                                {/*title="Mobile"*/}
+                                {/*autoCapitalize="none"*/}
+                                {/*keyboardType="numeric"*/}
+                                {/*value={this.state.mobile_number}*/}
+                                {/*underlineColorAndroid="white"*/}
+                                {/*onChangeText={(mobile_number) => this.setState({mobile_number})}*/}
+                                {/*changeCountryCode={this.changeCountryCode}*/}
+                            {/*/>*/}
                             <TextInput
                                 title="Company"
                                 required
@@ -150,7 +150,7 @@ const styles = StyleSheet.create({
         marginTop: 10,
         height: 50,
         borderRadius: 25,
-        backgroundColor: Colors.lightblue,
+        backgroundColor: Colors.lightorange,
         marginHorizontal: 10,
         alignSelf: 'stretch',
         alignItems: 'center',

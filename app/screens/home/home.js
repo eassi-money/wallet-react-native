@@ -262,7 +262,7 @@ export default class Home extends Component {
                         </View>
                     </View>
                     {/*<TouchableHighlight
-                        underlayColor={Colors.lightblue}
+                        underlayColor={Colors.lightorange}
                         style={{ flex: 1 }}
                         onPress={() => console.log("Home Screen")}>
                         <View></View>
@@ -277,29 +277,29 @@ export default class Home extends Component {
                                 <ScrollView showsVerticalScrollIndicator={false}>
                                     <HomeCard
                                         key={0}
-                                        title="Welcome to Rehive"
+                                        title="Welcome to Eassi"
                                         image={require('./../../../assets/icons/new_logo.png')}
-                                        text="Put your logo and brand here."
+                                        text="Sandbox to teach your kids financial literacy."
                                         buttonText="Cool" />
-                                    <HomeCard
-                                        key={1}
-                                        title="Get started"
-                                        image={require('./../../../assets/icons/demo1.png')}
-                                        text="Tell your customers what your app is about."
-                                        buttonText="Let's go" />
-                                    <HomeCard
-                                        key={2}
-                                        title="This is a demo app"
-                                        image={require('./../../../assets/icons/demo2.png')}
-                                        text="Note that you have to verify your email or mobile number to claim funds that has been sent to you."
-                                        buttonText="Cool" />
-                                    <HomeCard
-                                        key={3}
-                                        title="Get verified"
-                                        image={require('./../../../assets/icons/demo3.png')}
-                                        text="Go to get verified page"
-                                        buttonText="Verify"
-                                        navigation={this.props.navigation} />
+                                    {/*<HomeCard*/}
+                                        {/*key={1}*/}
+                                        {/*title="Get started"*/}
+                                        {/*image={require('./../../../assets/icons/demo1.png')}*/}
+                                        {/*text="Tell your customers what your app is about."*/}
+                                        {/*buttonText="Let's go" />*/}
+                                    {/*<HomeCard*/}
+                                        {/*key={2}*/}
+                                        {/*title="This is a demo app"*/}
+                                        {/*image={require('./../../../assets/icons/demo2.png')}*/}
+                                        {/*text="Note that you have to verify your email or mobile number to claim funds that has been sent to you."*/}
+                                        {/*buttonText="Cool" />*/}
+                                    {/*<HomeCard*/}
+                                        {/*key={3}*/}
+                                        {/*title="Get verified"*/}
+                                        {/*image={require('./../../../assets/icons/demo3.png')}*/}
+                                        {/*text="Go to get verified page"*/}
+                                        {/*buttonText="Verify"*/}
+                                        {/*navigation={this.props.navigation} />*/}
                                     <View
                                         key={4}
                                         style={styles.falseView} />
@@ -422,7 +422,7 @@ const styles = StyleSheet.create({
     balance: {
         flex: 1,
         flexDirection: 'row',
-        backgroundColor: Colors.lightblue,
+        backgroundColor: Colors.lightorange,
     },
     transaction: {
         flex: 5,
@@ -446,7 +446,7 @@ const styles = StyleSheet.create({
         backgroundColor: 'green',
     },
     submit: {
-        backgroundColor: Colors.lightblue,
+        backgroundColor: Colors.lightorange,
         height: 50,
         borderRadius: 25,
         flex: 1,

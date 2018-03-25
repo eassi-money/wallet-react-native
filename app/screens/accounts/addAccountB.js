@@ -105,7 +105,7 @@ const styles = StyleSheet.create({
         backgroundColor: Colors.lightgray
     },
     addAccount: {
-        color: Colors.lightblue,
+        color: Colors.lightorange,
         padding: 10,
         paddingHorizontal: 20,
         fontSize: 17
@@ -115,7 +115,7 @@ const styles = StyleSheet.create({
         marginBottom:10,
         height: 50,
         borderRadius: 25,
-        backgroundColor: Colors.lightblue,
+        backgroundColor: Colors.lightorange,
         alignItems: 'center',
         justifyContent: 'center',
     },

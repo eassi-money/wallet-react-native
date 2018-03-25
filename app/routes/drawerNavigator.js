@@ -22,21 +22,21 @@ const RouteConfigs = {
     Accounts: {
         screen: NewAccounts,
     },
-    Currencies:{
-        screen:Currencies
-    },
-    Deposit: {
-        screen: Deposit,
-    },
-    Withdraw: {
-        screen: Withdraw,
-    },
+    // Currencies:{
+    //     screen:Currencies
+    // },
+    // Deposit: {
+    //     screen: Deposit,
+    // },
+    // Withdraw: {
+    //     screen: Withdraw,
+    // },
     Receive: {
         screen: Receive,
     },
-    GetVerified:{
-        screen: GetVerified,
-    },
+    // GetVerified:{
+    //     screen: GetVerified,
+    // },
     Settings: {
         screen: Settings,
     },
@@ -59,7 +59,7 @@ export default DrawerNavigator(RouteConfigs, {
             <ScrollView>
                 <DrawerItems
                     {...props}
-                    activeTintColor="#6EBDF7"
+                    activeTintColor="#10BBB6"
                     activeBackgroundColor="#485159"
                     inactiveTintColor="white"
                     inactiveBackgroundColor="transparent"

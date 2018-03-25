@@ -65,7 +65,7 @@ export default class About extends Component {
               {this.state.company.description}
             </Text>
             <Text
-              style={{ fontSize: 20, color: Colors.darkblue }}
+              style={{ fontSize: 20, color: Colors.turqois }}
               onPress={this.openLink}>
               (link)
             </Text>

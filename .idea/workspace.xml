@@ -2,7 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57ae5830-11d6-41ee-8751-0ece6f4ddf28" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/cool1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/cool2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/cool3.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/logo.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/icons/app.png" afterPath="$PROJECT_DIR$/assets/icons/app.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/icons/loading.png" afterPath="$PROJECT_DIR$/assets/icons/loading.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/icons/new_loading.png" afterPath="$PROJECT_DIR$/assets/icons/new_loading.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/icons/new_logo.png" afterPath="$PROJECT_DIR$/assets/icons/new_logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/icons/placeholder.png" afterPath="$PROJECT_DIR$/assets/icons/placeholder.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/icons/profile.png" afterPath="$PROJECT_DIR$/assets/icons/profile.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/icons/profile_1.png" afterPath="$PROJECT_DIR$/assets/icons/profile_1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/drawerHeader.js" afterPath="$PROJECT_DIR$/app/components/drawerHeader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/emailAddress.js" afterPath="$PROJECT_DIR$/app/components/emailAddress.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/header.js" afterPath="$PROJECT_DIR$/app/components/header.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/homeCard.js" afterPath="$PROJECT_DIR$/app/components/homeCard.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/mobileNumber.js" afterPath="$PROJECT_DIR$/app/components/mobileNumber.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/textInput.js" afterPath="$PROJECT_DIR$/app/components/textInput.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/colors.js" afterPath="$PROJECT_DIR$/app/config/colors.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/routes/drawerNavigator.js" afterPath="$PROJECT_DIR$/app/routes/drawerNavigator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/about/about.js" afterPath="$PROJECT_DIR$/app/screens/about/about.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/accounts/accountsB.js" afterPath="$PROJECT_DIR$/app/screens/accounts/accountsB.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/accounts/addAccountB.js" afterPath="$PROJECT_DIR$/app/screens/accounts/addAccountB.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/accounts/newAccount.js" afterPath="$PROJECT_DIR$/app/screens/accounts/newAccount.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/auth/forgetPassword.js" afterPath="$PROJECT_DIR$/app/screens/auth/forgetPassword.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/auth/login.js" afterPath="$PROJECT_DIR$/app/screens/auth/login.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/auth/signup.js" afterPath="$PROJECT_DIR$/app/screens/auth/signup.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/auth/verifyMobile.js" afterPath="$PROJECT_DIR$/app/screens/auth/verifyMobile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/home/home.js" afterPath="$PROJECT_DIR$/app/screens/home/home.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/home/initialScreen.js" afterPath="$PROJECT_DIR$/app/screens/home/initialScreen.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/home/noNetConnection.js" afterPath="$PROJECT_DIR$/app/screens/home/noNetConnection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/address.js" afterPath="$PROJECT_DIR$/app/screens/settings/address.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/bankAccounts/bankAccountComponent.js" afterPath="$PROJECT_DIR$/app/screens/settings/bankAccounts/bankAccountComponent.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/bankAccounts/bankAccounts.js" afterPath="$PROJECT_DIR$/app/screens/settings/bankAccounts/bankAccounts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/bitcoinAddresses/bitcoinAddressComponent.js" afterPath="$PROJECT_DIR$/app/screens/settings/bitcoinAddresses/bitcoinAddressComponent.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/bitcoinAddresses/bitcoinAddresses.js" afterPath="$PROJECT_DIR$/app/screens/settings/bitcoinAddresses/bitcoinAddresses.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/emailAddresses/addEmailAddress.js" afterPath="$PROJECT_DIR$/app/screens/settings/emailAddresses/addEmailAddress.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/emailAddresses/emailAddresses.js" afterPath="$PROJECT_DIR$/app/screens/settings/emailAddresses/emailAddresses.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/getVerified/document.js" afterPath="$PROJECT_DIR$/app/screens/settings/getVerified/document.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/getVerified/documentUpload.js" afterPath="$PROJECT_DIR$/app/screens/settings/getVerified/documentUpload.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/getVerified/getVerified2.js" afterPath="$PROJECT_DIR$/app/screens/settings/getVerified/getVerified2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/mobileNumbers/addMobileNumber.js" afterPath="$PROJECT_DIR$/app/screens/settings/mobileNumbers/addMobileNumber.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/mobileNumbers/mobileNumbers.js" afterPath="$PROJECT_DIR$/app/screens/settings/mobileNumbers/mobileNumbers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/mobileNumbers/verifyMobile.js" afterPath="$PROJECT_DIR$/app/screens/settings/mobileNumbers/verifyMobile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/personalDetails.js" afterPath="$PROJECT_DIR$/app/screens/settings/personalDetails.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/profileImage/uploadImage.js" afterPath="$PROJECT_DIR$/app/screens/settings/profileImage/uploadImage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/security/changePassword.js" afterPath="$PROJECT_DIR$/app/screens/settings/security/changePassword.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/security/twoFactor/authoVerifySms.js" afterPath="$PROJECT_DIR$/app/screens/settings/security/twoFactor/authoVerifySms.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/security/twoFactor/twoFactorSmsAuth.js" afterPath="$PROJECT_DIR$/app/screens/settings/security/twoFactor/twoFactorSmsAuth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/security/twoFactor/twoFactorToken.js" afterPath="$PROJECT_DIR$/app/screens/settings/security/twoFactor/twoFactorToken.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/transfer/amountEntry.js" afterPath="$PROJECT_DIR$/app/screens/transfer/amountEntry.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/transfer/qrcodeScanner.js" afterPath="$PROJECT_DIR$/app/screens/transfer/qrcodeScanner.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/transfer/sendTo.js" afterPath="$PROJECT_DIR$/app/screens/transfer/sendTo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/withdraw/amountEntry.js" afterPath="$PROJECT_DIR$/app/screens/withdraw/amountEntry.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/withdraw/bankAccounts.js" afterPath="$PROJECT_DIR$/app/screens/withdraw/bankAccounts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/withdraw/bitcoinAddresses.js" afterPath="$PROJECT_DIR$/app/screens/withdraw/bitcoinAddresses.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,7 +67,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="sendTo.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/screens/transfer/sendTo.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -25,11 +80,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="qrcodeScanner.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="qrcodeScanner.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/screens/transfer/qrcodeScanner.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="59" lean-forward="true" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+            <state relative-caret-position="210">
+              <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -37,7 +92,95 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="initialScreen.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/screens/home/initialScreen.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/screens/home/home.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="281" column="92" lean-forward="false" selection-start-line="281" selection-start-column="92" selection-end-line="281" selection-end-column="92" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="colors.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/colors.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="drawerHeader.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/components/drawerHeader.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="signup.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/screens/auth/signup.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="141" column="28" lean-forward="true" selection-start-line="141" selection-start-column="28" selection-end-line="141" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="emailAddress.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/components/emailAddress.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="24" column="65" lean-forward="false" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="drawerNavigator.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/routes/drawerNavigator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="61" column="44" lean-forward="false" selection-start-line="61" selection-start-column="44" selection-end-line="61" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lightblue</find>
+      <find>darkblue</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>lightorange</replace>
+      <replace>turqois</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,6 +189,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/screens/transfer/qrcodeScanner.js" />
+        <option value="$PROJECT_DIR$/app/screens/home/home.js" />
+        <option value="$PROJECT_DIR$/app/components/emailAddress.js" />
+        <option value="$PROJECT_DIR$/app/components/drawerHeader.js" />
+        <option value="$PROJECT_DIR$/app/screens/auth/signup.js" />
+        <option value="$PROJECT_DIR$/app/config/colors.js" />
+        <option value="$PROJECT_DIR$/app/routes/drawerNavigator.js" />
       </list>
     </option>
   </component>
@@ -78,6 +227,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -95,7 +245,7 @@
               <item name="wallet-react-native" type="b2602c69:ProjectViewProjectNode" />
               <item name="wallet-react-native" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wallet-react-native" type="b2602c69:ProjectViewProjectNode" />
@@ -108,13 +258,18 @@
               <item name="wallet-react-native" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="screens" type="462c0819:PsiDirectoryNode" />
-              <item name="transfer" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wallet-react-native" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wallet-react-native" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,24 +309,24 @@
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -198,10 +353,94 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/screens/transfer/qrcodeScanner.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="255">
           <caret line="21" column="59" lean-forward="true" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/screens/transfer/sendTo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/screens/transfer/qrcodeScanner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/screens/home/initialScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/screens/home/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="281" column="92" lean-forward="false" selection-start-line="281" selection-start-column="92" selection-end-line="281" selection-end-column="92" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/emailAddress.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="24" column="65" lean-forward="false" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/drawerHeader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/screens/auth/signup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="141" column="28" lean-forward="true" selection-start-line="141" selection-start-column="28" selection-end-line="141" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/colors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes/drawerNavigator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="61" column="44" lean-forward="false" selection-start-line="61" selection-start-column="44" selection-end-line="61" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
           </folding>
         </state>
       </provider>

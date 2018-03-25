@@ -69,7 +69,7 @@ const styles = StyleSheet.create({
         paddingVertical:25,
     },
     button: {
-        backgroundColor: Colors.lightblue,
+        backgroundColor: Colors.lightorange,
         height: 50,
         borderRadius:25,
         flex: 1,
@@ -89,6 +89,6 @@ const styles = StyleSheet.create({
     },
     text: {
         fontSize: 12,
-        color: Colors.lightblue
+        color: Colors.lightorange
     }
 })
