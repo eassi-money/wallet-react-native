@@ -2,62 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57ae5830-11d6-41ee-8751-0ece6f4ddf28" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/cool1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/cool2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/cool3.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/logo.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/icons/app.png" afterPath="$PROJECT_DIR$/assets/icons/app.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/icons/loading.png" afterPath="$PROJECT_DIR$/assets/icons/loading.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/icons/new_loading.png" afterPath="$PROJECT_DIR$/assets/icons/new_loading.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/icons/new_logo.png" afterPath="$PROJECT_DIR$/assets/icons/new_logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/icons/placeholder.png" afterPath="$PROJECT_DIR$/assets/icons/placeholder.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/icons/profile.png" afterPath="$PROJECT_DIR$/assets/icons/profile.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/icons/profile_1.png" afterPath="$PROJECT_DIR$/assets/icons/profile_1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/drawerHeader.js" afterPath="$PROJECT_DIR$/app/components/drawerHeader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/emailAddress.js" afterPath="$PROJECT_DIR$/app/components/emailAddress.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/header.js" afterPath="$PROJECT_DIR$/app/components/header.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/homeCard.js" afterPath="$PROJECT_DIR$/app/components/homeCard.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/mobileNumber.js" afterPath="$PROJECT_DIR$/app/components/mobileNumber.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/textInput.js" afterPath="$PROJECT_DIR$/app/components/textInput.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/colors.js" afterPath="$PROJECT_DIR$/app/config/colors.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/routes/drawerNavigator.js" afterPath="$PROJECT_DIR$/app/routes/drawerNavigator.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/about/about.js" afterPath="$PROJECT_DIR$/app/screens/about/about.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/accounts/accountsB.js" afterPath="$PROJECT_DIR$/app/screens/accounts/accountsB.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/accounts/addAccountB.js" afterPath="$PROJECT_DIR$/app/screens/accounts/addAccountB.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/accounts/newAccount.js" afterPath="$PROJECT_DIR$/app/screens/accounts/newAccount.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/auth/forgetPassword.js" afterPath="$PROJECT_DIR$/app/screens/auth/forgetPassword.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/auth/login.js" afterPath="$PROJECT_DIR$/app/screens/auth/login.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/auth/signup.js" afterPath="$PROJECT_DIR$/app/screens/auth/signup.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/auth/verifyMobile.js" afterPath="$PROJECT_DIR$/app/screens/auth/verifyMobile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/home/home.js" afterPath="$PROJECT_DIR$/app/screens/home/home.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/home/initialScreen.js" afterPath="$PROJECT_DIR$/app/screens/home/initialScreen.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/home/noNetConnection.js" afterPath="$PROJECT_DIR$/app/screens/home/noNetConnection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/address.js" afterPath="$PROJECT_DIR$/app/screens/settings/address.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/bankAccounts/bankAccountComponent.js" afterPath="$PROJECT_DIR$/app/screens/settings/bankAccounts/bankAccountComponent.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/bankAccounts/bankAccounts.js" afterPath="$PROJECT_DIR$/app/screens/settings/bankAccounts/bankAccounts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/bitcoinAddresses/bitcoinAddressComponent.js" afterPath="$PROJECT_DIR$/app/screens/settings/bitcoinAddresses/bitcoinAddressComponent.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/bitcoinAddresses/bitcoinAddresses.js" afterPath="$PROJECT_DIR$/app/screens/settings/bitcoinAddresses/bitcoinAddresses.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/emailAddresses/addEmailAddress.js" afterPath="$PROJECT_DIR$/app/screens/settings/emailAddresses/addEmailAddress.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/emailAddresses/emailAddresses.js" afterPath="$PROJECT_DIR$/app/screens/settings/emailAddresses/emailAddresses.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/getVerified/document.js" afterPath="$PROJECT_DIR$/app/screens/settings/getVerified/document.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/getVerified/documentUpload.js" afterPath="$PROJECT_DIR$/app/screens/settings/getVerified/documentUpload.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/getVerified/getVerified2.js" afterPath="$PROJECT_DIR$/app/screens/settings/getVerified/getVerified2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/mobileNumbers/addMobileNumber.js" afterPath="$PROJECT_DIR$/app/screens/settings/mobileNumbers/addMobileNumber.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/mobileNumbers/mobileNumbers.js" afterPath="$PROJECT_DIR$/app/screens/settings/mobileNumbers/mobileNumbers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/mobileNumbers/verifyMobile.js" afterPath="$PROJECT_DIR$/app/screens/settings/mobileNumbers/verifyMobile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/personalDetails.js" afterPath="$PROJECT_DIR$/app/screens/settings/personalDetails.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/profileImage/uploadImage.js" afterPath="$PROJECT_DIR$/app/screens/settings/profileImage/uploadImage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/security/changePassword.js" afterPath="$PROJECT_DIR$/app/screens/settings/security/changePassword.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/security/twoFactor/authoVerifySms.js" afterPath="$PROJECT_DIR$/app/screens/settings/security/twoFactor/authoVerifySms.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/security/twoFactor/twoFactorSmsAuth.js" afterPath="$PROJECT_DIR$/app/screens/settings/security/twoFactor/twoFactorSmsAuth.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/security/twoFactor/twoFactorToken.js" afterPath="$PROJECT_DIR$/app/screens/settings/security/twoFactor/twoFactorToken.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/transfer/amountEntry.js" afterPath="$PROJECT_DIR$/app/screens/transfer/amountEntry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/transfer/qrcodeScanner.js" afterPath="$PROJECT_DIR$/app/screens/transfer/qrcodeScanner.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/transfer/sendTo.js" afterPath="$PROJECT_DIR$/app/screens/transfer/sendTo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/withdraw/amountEntry.js" afterPath="$PROJECT_DIR$/app/screens/withdraw/amountEntry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/withdraw/bankAccounts.js" afterPath="$PROJECT_DIR$/app/screens/withdraw/bankAccounts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/withdraw/bitcoinAddresses.js" afterPath="$PROJECT_DIR$/app/screens/withdraw/bitcoinAddresses.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,30 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sendTo.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/screens/transfer/sendTo.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#38#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="qrcodeScanner.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/screens/transfer/qrcodeScanner.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="initialScreen.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/screens/home/initialScreen.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -158,7 +80,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="drawerNavigator.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="drawerNavigator.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/routes/drawerNavigator.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="307">
@@ -167,6 +89,27 @@
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new_loading.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/icons/new_loading.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new_logo.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/icons/new_logo.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/icons/app.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -244,27 +187,13 @@
             <path>
               <item name="wallet-react-native" type="b2602c69:ProjectViewProjectNode" />
               <item name="wallet-react-native" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wallet-react-native" type="b2602c69:ProjectViewProjectNode" />
               <item name="wallet-react-native" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="screens" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wallet-react-native" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wallet-react-native" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="screens" type="462c0819:PsiDirectoryNode" />
-              <item name="auth" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wallet-react-native" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wallet-react-native" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="icons" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -279,6 +208,11 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/icons" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -443,6 +377,26 @@
             <element signature="e#0#25#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/icons/new_loading.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/icons/new_logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/icons/app.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/icons/app.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
